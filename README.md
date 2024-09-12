@@ -14,12 +14,9 @@ This project investigates the correlation between social media usage and its pot
 - [Dataset](#dataset)
 - [Technologies Used](#technologies-used)
 - [Methodology](#methodology)
-- [Installation](#installation)
-- [Usage](#usage)
 - [Results](#results)
 - [Future Scope](#future-scope)
-- [Contributors](#contributors)
-- [License](#license)
+
 
 ---
 
